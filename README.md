@@ -3,12 +3,12 @@
 
 # ***My Favorite Kdrama/movie***
 
-KDRAMA^S^
-   - Twinkling Watermelon
-   - Weightlifting Kim Bok Joo
-   - Doctor Kim
-   - Extra Curricular
-   - Snowdrop
+**KDRAMAS** :Movie:
+   1. Twinkling Watermelon
+   2. Weightlifting Kim Bok Joo
+   3. Doctor Kim
+   4. Extra Curricular
+   5. Snowdrop
      
      
 | Horror KDRAMAS |
