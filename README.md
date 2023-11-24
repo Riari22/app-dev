@@ -3,7 +3,7 @@
 
 # ***My Favorite Kdrama/movie***
 
-**KDRAMAS** :Movie:
+**KDRAMAS** :Cinema:
    1. Twinkling Watermelon
    2. Weightlifting Kim Bok Joo
    3. Doctor Kim
