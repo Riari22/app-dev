@@ -1,11 +1,9 @@
 # app-dev
-My first repository
+**My First Repository**
 
-# H1
-***My Favorite Kdrama/movie***
+# ***My Favorite Kdrama/movie***
 
-## H2
-1. ==KDRAMAS==
+1. ==KDRAMAS== 
    - Twinkling Watermelon
    - Weightlifting Kim Bok Joo
    - Doctor Kim
@@ -24,7 +22,7 @@ My first repository
    | :----: |
    | Kingdom |
      
-4. [Fantasy & Supernatural K-Dramas] (https://www.90daykorean.com/wp-content/uploads/2021/05/hrhhhkslzfwz1kveux2x-min.png)
+4. [Fantasy & Supernatural K-Dramas](https://www.90daykorean.com/wp-content/uploads/2021/05/hrhhhkslzfwz1kveux2x-min.png)
    - Alchemy of Souls
    - Guardian: The Lonely and Great God
    - The Uncanny Counter
