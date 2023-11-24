@@ -1,9 +1,9 @@
 # app-dev
-- **My First Repository**
+# **My First Repository**
 
 # ***My Favorite Kdrama/movie***
 
-1. ==KDRAMAS== 
+1. **KDRAMA^S^**
    - Twinkling Watermelon
    - Weightlifting Kim Bok Joo
    - Doctor Kim
