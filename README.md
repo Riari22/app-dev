@@ -1,6 +1,3 @@
-# app-dev
-# **My First Repository**
-
 # ***My Favorite Kdrama/movie***
 
 KDRAMAS 🎥
