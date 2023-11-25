@@ -11,13 +11,9 @@ KDRAMAS 🎥
 | Horror KDRAMAS |
 | :----: |
 | All Of Us Are Dead|
-|:----: |
 | Hellbound |
-| :----: |
 | Sweet Home |
-| :----: |
 | Goedam |
-| :----: |
 | Kingdom |
      
    [Fantasy & Supernatural K-Dramas](https://www.90daykorean.com/wp-content/uploads/2021/05/hrhhhkslzfwz1kveux2x-min.png)
