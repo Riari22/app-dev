@@ -8,7 +8,7 @@ KDRAMAS 🎥
    5. Snowdrop
      
      
-| Horror KDRAMAS |
+| Horror K-Dramas|
 | :----: |
 | All Of Us Are Dead|
 | Hellbound |
